@@ -1,1 +1,4 @@
-**/Datasets/*.pkl
+**/Datasets/*
+!**/Datasets/*.ipynb
+!**/Datasets/*.py
+!**/Datasets/*.ipynb_checkpoints
